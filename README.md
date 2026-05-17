@@ -1,1 +1,1 @@
-# Math_-Major-Fusion-Agent
+# Math-Major-Fusion-Agent
